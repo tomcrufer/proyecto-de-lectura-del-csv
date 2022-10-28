@@ -1,5 +1,4 @@
-from email import contentmanager
-from re import I
+
 from plataforma import *
 
 
